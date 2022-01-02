@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: raul.hdezs@gmail.com
+email: raul.hernandez-sanchez@protonmail.com
 # phone: 888 888 88 88
 address:
   street: 49 Rue Frédéric Joliot Curie
@@ -37,7 +37,17 @@ coordinates:
 #   - 'Monday 10:00 to 13:00'
 #   - 'Wednesday 09:00 to 10:00'
 # appointment_url: 'https://calendly.com'
-# contact_links:
+contact_links:
+    - name: Institut de Recherche sur les Phénomènes Hors Equilibre
+      link: 'https://irphe.fr/'
+    - icon: linkedin
+      icon_pack: fab
+      name: LinkedIn
+      link: 'https://www.linkedin.com/in/raulhdezs/'
+    - icon: researchgate
+      icon_pack: fab
+      name: ResearchGate
+      link: 'https://www.researchgate.net/profile/Raul_Hernandez_Sanchez2'
 #   - icon: twitter
 #     icon_pack: fab
 #     name: DM Me
@@ -67,7 +77,7 @@ main_menu:
   # Show a language chooser (if you have translated your site content)?
   show_translations: true
   # If `show_translations` is enabled, do you wish to display the current language name?
-  show_language: false
+  show_language: true
   # Let the user override the default light/dark mode of your theme?
   show_day_night: true
   # Let the user search from the nav bar?
@@ -151,7 +161,8 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: 'google'
+    # google/mapnik/mapbox
+  provider: 'mapbox'
   api_key: ''
   zoom: 15
 marketing:

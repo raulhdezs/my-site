@@ -38,8 +38,8 @@ education:
     institution: Universidad Carlos III de Madrid (Spain)
     year: 2017
   - course: Erasmus+ semester during BSc
-    institution: Chalmers University of Technologiy (Sweden)
-    year: 2017
+    institution: Chalmers University of Technology, Gothenburg (Sweden)
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -71,8 +71,8 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
+# - icon: cv
+#   icon_pack: ai
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -82,6 +82,6 @@ email: ""
 highlight_name: true
 ---
 
-I am a 3rd year PhD student working on asymptotic analysis and simulation of detonation initiation.
+I am a 3rd year PhD student working on the fundamental problems of direct initation of gaseous detonations and detonation to deflagration transition (DDT).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.

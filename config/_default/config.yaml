@@ -5,13 +5,13 @@
 
 title: Raúl Hernández Sánchez # Website name
 baseurl: 'https://raulhdezs.netlifty.app/' # Website URL
-copyright: '© {year} Me' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Raúl Hernández Sánchez' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: es
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
