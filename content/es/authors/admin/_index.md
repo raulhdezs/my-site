@@ -6,7 +6,7 @@ title: Raúl Hernández Sánchez
 superuser: true
 
 # Role/position/tagline
-role: PhD Student | Industrial Engineer
+role: Estudiante de doctorado | Ingeniero Industrial
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -16,29 +16,30 @@ organizations:
   url: https://irphe.univ-amu.fr/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include compressible flow and combustion fundamental problems.
+bio: Mis principales intereses de investigación son el flujo compresible y los problemas fundamentales de la combustión.
+
 
 # Interests to show in About widget
 interests:
-- Combustion Physics
-- Hydrogen Fuel
-- Supersonic and Hypersonic Propulsion
-- Solar Thermal Energy
+- Física de la Combustión
+- Combustible de Hidrógeno
+- Propulsión Supersónica e Hipersónica
+- Energía Solar Térmica
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Engineering Sciences
-    institution: Aix-Marseille Université (France)
-    year: 2019 - present
-  - course: MEng in Industrial Engineering
-    institution: Universidad Carlos III de Madrid (Spain)
+  - course: Doctorado en Ciencias para la Ingeniería
+    institution: Aix-Marseille Université (Francia)
+    year: 2019 - presente
+  - course: Master Habilitante en Ingeniería Industrial
+    institution: Universidad Carlos III de Madrid
     year: 2019
-  - course: BSc in Industrial Engineering Technologies 
-    institution: Universidad Carlos III de Madrid (Spain)
+  - course: Grado en Ingeniería en Tecnologías Industriales
+    institution: Universidad Carlos III de Madrid
     year: 2017
-  - course: Erasmus+ semester during BSc
-    institution: Chalmers University of Technology, Gothenburg (Sweden)
+  - course: Erasmus+ durante el grado
+    institution: Chalmers University of Technology, Gotemburgo (Suecia)
     year: 2016
 
 # Social/Academic Networking
@@ -82,6 +83,6 @@ email: ""
 highlight_name: true
 ---
 
-I am a 3rd year PhD student working on the fundamental problems of Direct Initation of Gaseous Detonations and Detonation to Deflagration Transition (DDT).
+Actualmente estoy cursando mi 3er año de doctorado trabajando en los problemas fundamentales de la combustión de la Iniciación Directa de Detonaciones Gaseosas y la Transición de Deflagración a Detonación (DDT).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.

@@ -82,6 +82,6 @@ email: ""
 highlight_name: true
 ---
 
-I am a 3rd year PhD student working on the fundamental problems of Direct Initation of Gaseous Detonations and Detonation to Deflagration Transition (DDT).
+I am a 3rd year PhD student working on the fundamental combustion problems of Direct Initation of Gaseous Detonations and Deflagration to Detonation Transition (DDT).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
