@@ -38,8 +38,10 @@ coordinates:
 #   - 'Wednesday 09:00 to 10:00'
 # appointment_url: 'https://calendly.com'
 contact_links:
-    - name: Institut de Recherche sur les Phénomènes Hors Equilibre
+    - name: Institut de Recherche sur les Phénomènes Hors Equilibre, Office 1.45
       link: 'https://irphe.fr/'
+      icon: compass
+      icon_pack: fas
     - icon: linkedin
       icon_pack: fab
       name: LinkedIn
