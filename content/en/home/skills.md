@@ -16,15 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- icon: infinity
-  icon_pack: fas
-  name: Mathematical Analysis 
 - icon: search
   icon_pack: fas
   name: Research
 - icon: chalkboard-teacher
   icon_pack: fas
   name: Teaching
+- icon: infinity
+  icon_pack: fas
+  name: Mathematical Analysis 
+- icon: desktop
+  icon_pack: fas
+  name: Numerical Methods
 - icon: file-code
   icon_pack: fas
   name: C/C++
@@ -34,6 +37,9 @@ feature:
 - icon: terminal
   icon_pack: fas
   name: Linux
+- icon: git-alt
+  icon_pack: fab
+  name: Git
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
