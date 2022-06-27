@@ -6,7 +6,7 @@ title: Raúl Hernández Sánchez
 superuser: true
 
 # Role/position/tagline
-role: PhD Student | Industrial Engineer
+role: Doctorant | Ingénieur industriel
 
 # Organizations/Affiliations to show in About widget
 organizations:
